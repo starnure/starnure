@@ -14,4 +14,4 @@ Minecraft plugins for **Paper & Folia**, made in Ukraine by Restarnure.
 
 ### Support
 
-Questions, bug reports and suggestions: Discord (link coming soon).
+Questions, bug reports and suggestions: [Discord](https://discord.gg/bHNzab9jDj) or support@starnure.dev.
